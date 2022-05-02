@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alberto</h1>
-<h3 align="center">A passionate frontend and backend developer. I really enjoy learning languages and frameworks like VUE and ASP.net, as well as work in WordPress.</h3>
+<h3 align="center">A passionate frontend and backend developer. I really enjoy learning languages and frameworks like REACT and ASP.net, as well as work in WordPress.</h3>
 
 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.
 
