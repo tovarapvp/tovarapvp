@@ -4,7 +4,7 @@
 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.
 
 
-- 🌱 I’m currently learning **VUE,ASP.net**
+- 🌱 I’m currently learning **VUE**
 
 - 📫 How to reach me **tovarapvp@gmail.com**
 
