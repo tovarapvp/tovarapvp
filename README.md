@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **VUE**
 
-- 📫 How to reach me **tovarapvp@gmail.com**
+- 📫 How to reach me **ajtovar1998@gmail.com**
 
 
 
