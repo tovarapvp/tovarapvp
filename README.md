@@ -23,7 +23,7 @@ I focus on clean code, microservices, domain-driven design, and bringing high-im
 
 #### Backend
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,nestjs,postgres,mongodb,mysql" alt="Backend Skills" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,nestjs,postgres,mongodb,mysql,spring,java" alt="Backend Skills" /></a>
 </p>
 
 #### DevOps & Infrastructure
