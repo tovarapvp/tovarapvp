@@ -65,7 +65,7 @@ I focus on clean code, microservices, domain-driven design, and bringing high-im
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="mailto:ajtovar1998@gmail.com">
+  <a href="">
     <img src="https://img.shields.io/badge/Contact%20Me-Email-blue?style=for-the-badge&logo=gmail" alt="Contact Me"/>
   </a>
 </p>
