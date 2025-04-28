@@ -1,23 +1,16 @@
 <h1 align="center">Hi 👋, I'm Alberto Tovar</h1>
-<h3 align="center">Full Stack Engineer | Software Architect in Progress 🚀</h3>
+<h3 align="center">Full Stack Engineer | Event-Driven Architectures | .NET & Next.js Specialist</h3>
 
 <p align="center">
-A passionate developer specialized in building scalable, high-performance web and backend applications. <br>
-Focused on architecting clean, maintainable, and event-driven systems. <br>
-Constant learner, builder, and technology enthusiast.
+  <img src="https://img.shields.io/badge/Built%20with%20❤️%20by-Alberto%20Tovar-blueviolet?style=for-the-badge" alt="Built with love by Alberto Tovar" />
 </p>
 
 ---
 
-### 🌟 About Me
+### 🚀 About Me
 
-- 🔭 I’m currently building **event-driven payment gateways** and **full-stack SaaS platforms**.
-- 🚀 Passionate about **architecture design**, **microservices**, **state machines**, and **domain-driven design**.
-- 🌱 Currently deepening my expertise in **.NET**, **Kafka (Redpanda)**, and **advanced Next.js**.
-- 🛠️ I enjoy creating products with **React**, **Next.js**, **Tailwind CSS**, **ASP.NET Core**, **PostgreSQL**, and **Docker**.
-- 🤝 Always open to collaborate on challenging and meaningful projects.
-- 📫 Reach me at **ajtovar1998@gmail.com**.
-- 🌎 Based in: **Mexico**.
+I'm Alberto — a passionate Full Stack Engineer who loves building scalable systems, designing event-driven architectures, and developing full-stack SaaS platforms.  
+I focus on clean code, microservices, domain-driven design, and bringing high-impact solutions to life.
 
 ---
 
@@ -30,8 +23,6 @@ Constant learner, builder, and technology enthusiast.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
 </p>
 
 #### Backend
@@ -41,7 +32,6 @@ Constant learner, builder, and technology enthusiast.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
 #### DevOps & Tools
@@ -57,41 +47,43 @@ Constant learner, builder, and technology enthusiast.
 
 ### 📚 Knowledge Areas
 
-- **Event-Driven Architectures** (Kafka, Redpanda)
-- **Clean Architecture & DDD**
-- **Microservices**
-- **Authentication (OAuth2, JWT, SSO, Keycloak, Azure Entra ID)**
-- **REST APIs and Streaming APIs**
-- **Cloud Infrastructure (AWS, Azure basics)**
-
----
-
-### 🚀 Interests
-
-- **Mobile App Development** with **React Native** and **Expo**
-- **Distributed Systems**
-- **System Design & Architecture**
-- **Advanced Testing Strategies** (Unit, Integration, E2E)
-- **Real-time Applications**
-
----
-
-### 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://codepen.io/tovarapvp" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="30" width="40" />
-  </a>
-  <a href="https://dev.to/tovarapvp" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devto" height="30" width="40" />
-  </a>
-</p>
+- Event-Driven Architectures (Kafka, Redpanda)
+- Clean Architecture & Domain-Driven Design (DDD)
+- Microservices & API Design
+- Streaming Systems & Message Brokers
+- Full Stack Web Development
 
 ---
 
 ### 📈 GitHub Stats
 
-<p style="display: flex; justify-content: space-between;">
-  <img alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=tovarapvp" />
-  <img alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tovarapvp&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tovarapvp&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tovarapvp&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="center">
+  <a href="mailto:ajtovar1998@gmail.com">
+    <img src="https://img.shields.io/badge/Contact%20Me-Email-blue?style=for-the-badge&logo=gmail" alt="Contact Me"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://codepen.io/tovarapvp" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Codepen" height="30" width="40" />
+  </a>
+  <a href="https://dev.to/tovarapvp" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Devto" height="30" width="40" />
+  </a>
+</p>
+
+---
