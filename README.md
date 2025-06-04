@@ -26,9 +26,11 @@ I focus on clean code, microservices, domain-driven design, and bringing high-im
   <a href="#"><img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,nestjs,postgres,mongodb,mysql,spring,java" alt="Backend Skills" /></a>
 </p>
 
+
+
 #### DevOps & Infrastructure
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,redis,kafka,rabbitmq" alt="DevOps Skills" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,redis,kafka,rabbitmq,terraform,ansible" alt="DevOps Skills" /></a>
 </p>
 
 #### Tools & Others
@@ -36,7 +38,6 @@ I focus on clean code, microservices, domain-driven design, and bringing high-im
   <a href="#"><img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,figma,vscode,vercel,graphql" alt="Other Tools" /></a>
 </p>
 
----
 
 ### 📚 Knowledge Areas
 
